@@ -1,2 +1,4 @@
 # guessintegergame
-this is so fun game,author:jyoti parida
+this is so fun game
+<br>
+author:jyoti parida
